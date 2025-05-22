@@ -1,4 +1,4 @@
-# 🛒 Freshco Hypermarket Data Analysis – Capstone Project
+# 🛒 Data Analysis – Capstone Project
 
 
 ## 📌 Project Overview
