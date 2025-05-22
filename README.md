@@ -3,13 +3,13 @@
 
 ## 📌 Project Overview
 
-This project analyzes order, customer, and delivery data from **Freshco Hypermarket** to uncover trends, inefficiencies, and strategic insights. The primary goal is to enhance operational efficiency and customer satisfaction through data-driven recommendations.
+This project analyzes order, customer, and delivery data from **Hypermarket** to uncover trends, inefficiencies, and strategic insights. The primary goal is to enhance operational efficiency and customer satisfaction through data-driven recommendations.
 
 ---
 
 ## 📊 Objective
 
-To examine Freshco's performance using order, delivery, and customer data between **January 1, 2021** and **September 30, 2021** and identify key patterns related to:
+To examine Hypermarket's performance using order, delivery, and customer data between **January 1, 2021** and **September 30, 2021** and identify key patterns related to:
 
 - Order trends (time slots, areas)
 - Delivery performance and completion rates
